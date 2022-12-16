@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "tag": "c:stone"
+    }
+  },
+  "pattern": [
+    "SW ",
+    "SII",
+    "SW "
+  ],
+  "result": {
+    "item": "drill_tool:drill"
+  }
+}
